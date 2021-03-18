@@ -1,0 +1,201 @@
+[16-Oct-2016 02:47:09 America/Denver] PHP Fatal error:  Call to a member function num_rows() on array in /home/demohospitalbdta/public_html/application/models/AuthModel.php on line 32
+[06-Feb-2017 03:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 03:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:10:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 04:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:10:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:20:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:45:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 05:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:00:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:10:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:35:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 06:55:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:10:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:30:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:40:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 07:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:10:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:20:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 08:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:05:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:10:07 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:30:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:35:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:45:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 09:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:05:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:10:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:30:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:40:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[06-Feb-2017 10:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''message'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habitusana/public_html/application/controllers/admin/Sms_sender.php on line 115
+[28-Jun-2017 10:01:55 UTC] PHP Fatal error:  Call to a member function get_venue_list() on null in /home/softestbdtask1/public_html/clinic/application/controllers/admin/doctor/Appointment_controller.php on line 279
+[15-Feb-2021 14:01:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:04 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:01:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:02:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:02:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:02:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:02:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:04 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:07 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:19 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:19 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:19 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:19 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:19 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:19 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:22 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:22 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:22 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:22 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:22 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:22 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:23 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:23 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:23 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:23 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:23 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:23 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:23 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:24 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:24 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:24 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:24 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:24 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:24 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  include(application/config/database.php): failed to open stream: No such file or directory in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  include(): Failed opening 'application/config/database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/omaruppermid/crm-demo/index.php on line 328
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Notice:  Undefined variable: db in /home/omaruppermid/crm-demo/index.php on line 329
+[15-Feb-2021 14:03:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'omaruppermid'@'localhost' (using password: NO) in /home/omaruppermid/crm-demo/index.php on line 329

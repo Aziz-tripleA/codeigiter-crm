@@ -1,0 +1,5 @@
+/*map*/
+ .google_map > iframe{
+    width:350px!important;
+    height:350px!important;
+}
